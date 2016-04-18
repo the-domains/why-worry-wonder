@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[why worry wonder]]></title>
+        <description><![CDATA[why worry wonder]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 21:03:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wondering how to get healthy with no money and only seven minutes?]]></title>
+            <description><![CDATA[<article><h1>Wondering how to get healthy with no money and only seven minutes?</h1><p>Interval training, though, requires intervals; the extremely intense activity must be intermingled with brief periods of recovery. In the program outlined by Mr. Jordan and his colleagues, this recovery is provided in part by a 10-second rest between exercises.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8539ad200a3f8975e9d7dcd7d2fc7a36b914ca75.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/blogs/well/2013/05/09/the-scientific-7-minute-workout/</link>
+            <guid isPermaLink="false">be46c197-f0bb-4c66-a4f8-aa82a1f4f849</guid>
+            <pubDate>Mon, 18 Apr 2016 21:03:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
